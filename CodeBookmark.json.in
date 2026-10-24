@@ -1,0 +1,17 @@
+{
+    "Id" : "codebookmark",
+    "Name" : "CodeBookmark",
+    "DisplayName" : "Code Bookmark",
+    "Version" : "19.0.2",
+    "CompatVersion" : "19.0.0",
+    "Vendor" : "CodeBookmark",
+    "VendorId" : "codebookmark",
+    "Copyright" : "(C) 2026 CodeBookmark contributors",
+    "License" : "GPL-3.0-only",
+    "Category" : "Core",
+    "Description" : "Save selected code snippets with personal notes into a Markdown file, browse them in an output pane, and jump back to the source.",
+    "Dependencies" : [
+        { "Id" : "core", "Version" : "19.0.0" },
+        { "Id" : "texteditor", "Version" : "19.0.0" }
+    ]
+}
